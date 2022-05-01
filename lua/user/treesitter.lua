@@ -7,6 +7,7 @@ configs.setup {
   ensure_installed = {
     "elixir",
     "erlang",
+    "graphql",
     "html",
     "javascript",
     "json",
