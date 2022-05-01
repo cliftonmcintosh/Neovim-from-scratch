@@ -62,7 +62,7 @@ keymap("x", "<A-k>", ":move '<-2<CR>gv-gv", opts)
 
 
 -- Git --
-keymap("n", "gg", "<cmd>lua _LAZYGIT_TOGGLE()<CR>", opts)
+keymap("n", "gt", "<cmd>lua _LAZYGIT_TOGGLE()<CR>", opts)
 
 -- Terminal --
 -- Better terminal navigation
